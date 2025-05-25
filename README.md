@@ -32,8 +32,8 @@ OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy 
 	<tr> 
     <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
 	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/blob/main/download/OnlyNet.exe" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/blob/main/download/OnlyNet.apk" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=" target="_blank">Latest Release</a> </td> 
   </tr> 
 </table>
 
