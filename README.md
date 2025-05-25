@@ -1,9 +1,9 @@
 # OnlyNet
 OnlyNet is a easy-to-use rule based proxy utility that supports multiple proxy protocols.
 <div style="display: flex; align-items: center;"> 
-  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-1.jpg?raw=true" alt="image" style="width:280px;" /> 
-  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-2.jpg?raw=true" alt="image" style="width:280px;" /> 
-  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-3.jpg?raw=true" alt="image" style="width:280px;" /> 
+  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-1.jpg?raw=true" alt="image" style="width:260px;" /> 
+  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-2.jpg?raw=true" alt="image" style="width:260px;" /> 
+  <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-3.jpg?raw=true" alt="image" style="width:260px;" /> 
 </div>
 
 OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy protocols.
