@@ -30,10 +30,10 @@ OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy 
 		<td align="center"> <img src="https://raw.githubusercontent.com/onlynet-dev/onlynet/4349b558fedb34a825e713df5295c37702a524c4/docs/icon/android.svg" alt="Android" style="width:100px;"><br> Android </td> 
   </tr>
 	<tr> 
-    <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">下载iOS客户端</a> </td> 
-	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">下载MacOS客户端</a> </td> 
-	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">下载Windows客户端</a> </td> 
-	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">下载安卓客户端</a> </td> 
+    <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">Latest Release</a> </td> 
   </tr> 
 </table>
 
