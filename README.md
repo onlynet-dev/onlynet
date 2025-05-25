@@ -21,7 +21,7 @@ OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy 
 -Support DNS over TCP/ HTTPS/ TLS
 
 
-#Installing OnlyNet
+# Installing OnlyNet
 
 <table border="1" cellspacing="0" cellpadding="10"> 
 	<tr> <td align="center"> <img src="https://raw.githubusercontent.com/onlynet-dev/onlynet/4349b558fedb34a825e713df5295c37702a524c4/docs/icon/ios.svg" alt="iOS" style="width:100px;"><br> iOS </td> 
@@ -36,3 +36,18 @@ OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy 
 	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522">下载安卓客户端</a> </td> 
   </tr> 
 </table>
+
+# Join Our Community
+ 
+  For help you can send mail to us : <p> <a href="mailto:info@hnet.com.au">info@hnet.com.au</a> </p>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+  
