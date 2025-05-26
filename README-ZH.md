@@ -1,5 +1,5 @@
 # OnlyNet介绍 
-<div style="width: 100%; overflow: hidden; font-family: sans-serif; font-size: 32px; line-height: 3;"> <span style="float: right;"> <a href="#">中文</a> | <a href="https://github.com/onlynet-dev/onlynet/tree/main">English</a> </span> </div>
+<div style="width: 100%; overflow: hidden; font-family: sans-serif; font-size: 32px; line-height: 3;"> <span style="float: right;"> <a href="https://github.com/onlynet-dev/onlynet/tree/main">English</a> | <a href="#">中文</a>  </span> </div>
 <br />
 OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理协议和订阅信息。
 <div style="display: flex; align-items: center;"> 
