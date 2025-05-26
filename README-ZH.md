@@ -9,11 +9,17 @@ OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理
 </div>
 
 产品的能力主要包含以下：
+
 --捕获来自任何应用程序的所有 HTTP/HTTPS/TCP/UDP 流量，并转发到代理服务器
+
 --根据域名、IP 规则将流量路由到服务器
+
 --支持 HTTP、HTTPS、SOCKS 等协议
+
 --支持 IPV6
+
 --支持局域网共享
+
 --支持通过 TCP/HTTPS/TLS 进行 DNS 查询
 
 # OnlyNet安装
