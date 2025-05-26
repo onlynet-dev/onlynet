@@ -40,6 +40,10 @@ OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy 
 </table>
 
 # Join Our Community
+
+  Join <a href="https://t.me/onlynetapp" target="_blank" rel="noreferrer">Telegram Channel </a>, To receive the latest updates.
+
+  Join <a href="https://t.me/+8oP5oTIyskcwNmYx" target="_blank" rel="noreferrer">Telegram Group </a>, Chat online with OnlyNet users.
  
   For help you can send mail to us : <p> <a href="mailto:info@hnet.com.au">info@hnet.com.au</a> </p>
 
