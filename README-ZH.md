@@ -31,10 +31,10 @@ OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理
 	<td align="center"> <img src="https://raw.githubusercontent.com/onlynet-dev/onlynet/4349b558fedb34a825e713df5295c37702a524c4/docs/icon/android.svg" alt="Android" style="width:100px;"><br> Android </td> 
   </tr>
   <tr> 
-    <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=" target="_blank">Latest Release</a> </td> 
+    <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">打开安装</a> </td> 
+	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">打开安装</a> </td> 
+	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=" target="_blank">下载安装</a> </td> 
+	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=" target="_blank">下载安装</a> </td> 
   </tr> 
 </table>
 
