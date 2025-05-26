@@ -39,6 +39,11 @@ OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理
 </table>
 
 # 欢迎讨论
+
+  欢迎订阅<a href="https://t.me/onlynetapp" target="_blank" rel="noreferrer"> Telegram 频道 </a>以获取最新消息。
+
+  欢迎加入<a href="https://t.me/+8oP5oTIyskcwNmYx" target="_blank" rel="noreferrer"> Telegram 讨论组</a>，与OnlyNet用户在线交流。
+
  
   如果您有任何的疑问，请发邮件与我们沟通交流 <p> <a href="mailto:info@hnet.com.au">info@hnet.com.au</a> </p>
 
