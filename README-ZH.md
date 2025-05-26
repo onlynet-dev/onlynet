@@ -8,7 +8,7 @@ OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-3.jpg?raw=true" alt="image" style="width:260px;" /> 
 </div>
 
-产品的能力主要包含以下：
+产品主要包含以下的能力：
 
 --捕获来自任何应用程序的所有 HTTP/HTTPS/TCP/UDP 流量，并转发到代理服务器
 
