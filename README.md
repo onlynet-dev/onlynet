@@ -2,6 +2,7 @@
 <div style="width: 100%; overflow: hidden; font-family: sans-serif; font-size: 32px; line-height: 3;"> <span style="float: right;">  <a href="#">English</a> | <a href="https://github.com/onlynet-dev/onlynet/blob/main/README-ZH.md">中文</a></span> </div>
 <br />
 OnlyNet is a easy-to-use rule based proxy utility that supports multiple proxy protocols.
+
 <br />
 
 <div style="display: flex; align-items: center;"> 
@@ -10,7 +11,8 @@ OnlyNet is a easy-to-use rule based proxy utility that supports multiple proxy p
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-en-3.jpg?raw=true" alt="image" style="width:260px;height:565px;" /> 
 </div>
 
-OnlyNet is an easy-to-use rule based proxy utility that supports multiple proxy protocols.
+OnlyNet mainly includes the following capabilities:
+
 
 -Capture all HTTP/HTTPS/ SOCKS traffic from any application forward to the proxy server
 
