@@ -1,4 +1,6 @@
-# OnlyNet
+# OnlyNet 
+<div style="width: 100%; overflow: hidden; font-family: sans-serif; font-size: 32px; line-height: 3;"> <span style="float: right;"> <a href="https://github.com/onlynet-dev/onlynet/edit/main/README-ZH.md">中文</a> | <a href="#">English</a> </span> </div>
+<br />
 OnlyNet is a easy-to-use rule based proxy utility that supports multiple proxy protocols.
 <div style="display: flex; align-items: center;"> 
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-1.jpg?raw=true" alt="image" style="width:260px;" /> 
