@@ -48,6 +48,8 @@ OnlyNet mainly includes the following capabilities:
   Join <a href="https://t.me/onlynetapp" target="_blank" rel="noreferrer">Telegram Channel </a>, To receive the latest updates.
 
   Join <a href="https://t.me/+8oP5oTIyskcwNmYx" target="_blank" rel="noreferrer">Telegram Group </a>, Chat online with OnlyNet users.
+
+  If you find a bug or have a feature request, please <a href="https://github.com/onlynet-dev/onlynet/issues"  target="_blank" >file an issue</a>
  
   For help you can send mail to us : <p> <a href="mailto:info@hnet.com.au">info@hnet.com.au</a> </p>
 
