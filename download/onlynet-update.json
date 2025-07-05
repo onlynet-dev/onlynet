@@ -1,0 +1,48 @@
+{
+  "updates": [
+    {
+      "clientType": "ios_app_store",
+      "version": "1.0.26",
+      "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
+      "releaseNotes": [
+        "Bug fixes and performance improvements.",
+        "Improved battery usage.",
+        "Added support for new widgets."
+      ],
+      "upgradeType": "option"
+    },
+    {
+      "clientType": "mac_app_store",
+      "version": "1.0.25",
+      "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
+      "releaseNotes": [
+        "Enhanced user interface.",
+        "Fixed minor bugs.",
+        "Improved startup time."
+      ],
+      "upgradeType": "must"
+    }    
+    {
+      "clientType": "windows_public",
+      "version": "1.0.20",
+      "downloadUrl": "https://example.com/download/windows",
+      "releaseNotes": [
+        "Added new features and improved security.",
+        "Enhanced compatibility with latest hardware.",
+        "Fixed critical vulnerabilities."
+      ],
+      "upgradeType": "must"
+    },
+    {
+      "clientType": "android_public",
+      "version": "1.0.18",
+      "downloadUrl": "https://example.com/download/windows",
+      "releaseNotes": [
+        "Added new features and improved security.",
+        "Enhanced compatibility with latest hardware.",
+        "Fixed critical vulnerabilities."
+      ],
+      "upgradeType": "option"
+    }
+  ]
+}
