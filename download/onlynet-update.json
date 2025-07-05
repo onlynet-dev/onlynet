@@ -5,9 +5,9 @@
       "version": "1.0.26",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "Bug fixes and performance improvements.",
-        "Improved battery usage.",
-        "Added support for new widgets."
+        "1.Bug fixes and performance improvements.",
+        "2.Improved battery usage.",
+        "3.Added support for new widgets."
       ],
       "upgradeType": "option"
     },
@@ -16,9 +16,9 @@
       "version": "1.0.25",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "Enhanced user interface.",
-        "Fixed minor bugs.",
-        "Improved startup time."
+        "1.Enhanced user interface.",
+        "2.Fixed minor bugs.",
+        "3.Improved startup time."
       ],
       "upgradeType": "must"
     }    
@@ -27,9 +27,9 @@
       "version": "1.0.20",
       "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=",
       "releaseNotes": [
-        "修改界面显示文字样式",
-        "改进隧道连接状态检查机制",
-        "启动时更新一次线路列表"
+        "1、修改界面显示文字样式",
+        "2、改进隧道连接状态检查机制",
+        "3、启动时更新一次线路列表"
       ],
       "upgradeType": "must"
     },
@@ -38,9 +38,9 @@
       "version": "1.0.18",
       "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=",
       "releaseNotes": [
-        "Added new features and improved security.",
-        "Enhanced compatibility with latest hardware.",
-        "Fixed critical vulnerabilities."
+        "1、Added new features and improved security.",
+        "2、Enhanced compatibility with latest hardware.",
+        "3、Fixed critical vulnerabilities."
       ],
       "upgradeType": "option"
     }
