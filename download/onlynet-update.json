@@ -35,12 +35,12 @@
     },
     {
       "clientType": "android_public",
-      "version": "1.0.18",
+      "version": "1.0.26",
       "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=",
       "releaseNotes": [
-        "1、Added new features and improved security.",
-        "2、Enhanced compatibility with latest hardware.",
-        "3、Fixed critical vulnerabilities."
+        "1、新增设置中的关注链接",
+        "2、新增版本升级机制",
+        "3、新增关于内容的描述链接"
       ],
       "upgradeType": "option"
     }
