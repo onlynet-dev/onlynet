@@ -21,7 +21,7 @@
         "3.Improved startup time."
       ],
       "upgradeType": "must"
-    }    
+    },  
     {
       "clientType": "windows_public",
       "version": "1.0.20",
