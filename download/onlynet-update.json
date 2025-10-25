@@ -6,22 +6,31 @@
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
         "1.Bug fixes and performance improvements.",
-        "2.Improved battery usage.",
+        "2.Support route policy.",
         "3.Added support for new widgets."
       ],
       "upgradeType": "option"
     },
     {
       "clientType": "mac_app_store",
-      "version": "1.0.25",
+      "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
         "1.Enhanced user interface.",
-        "2.Fixed minor bugs.",
-        "3.Improved startup time."
+        "2.Support route policy."
       ],
       "upgradeType": "must"
     },  
+    {
+      "clientType": "mac_ad_hoc",
+      "version": "1.0.28",
+      "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
+      "releaseNotes": [
+        "1.Enhanced user interface.",
+        "2.Support route policy."
+      ],
+      "upgradeType": "must"
+    },     
     {
       "clientType": "windows_public",
       "version": "1.0.20",
