@@ -2,12 +2,12 @@
   "updates": [
     {
       "clientType": "ios_app_store",
-      "version": "1.0.30",
+      "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Bug fixes and performance improvements.",
-        "2.Support route policy.",
-        "3.Added support for new widgets."
+        "1.Optimized route policy mode.",
+        "2.Supports upgrade self-check and prompts.",
+        "3.Other feature and bug fixed."
       ],
       "upgradeType": "option"
     },
@@ -16,40 +16,42 @@
       "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Enhanced user interface.",
-        "2.Support route policy."
+        "1.Optimized route policy mode.",
+        "2.Supports upgrade self-check and prompts.",
+        "3.Other feature and bug fixed."
       ],
-      "upgradeType": "must"
+      "upgradeType": "option"
     },  
     {
       "clientType": "mac_ad_hoc",
       "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Enhanced user interface.",
-        "2.Support route policy."
+        "1.Optimized route policy mode.",
+        "2.Supports upgrade self-check and prompts.",
+        "3.Other feature and bug fixed."
       ],
       "upgradeType": "must"
     },     
     {
       "clientType": "windows_public",
-      "version": "1.0.20",
+      "version": "1.0.28",
       "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=",
       "releaseNotes": [
-        "1、修改界面显示文字样式",
-        "2、改进隧道连接状态检查机制",
-        "3、启动时更新一次线路列表"
+        "1、优化线路的策略模式",
+        "2、支持升级自检和提示",
+        "3、其他一些功能和bug的优化"
       ],
       "upgradeType": "must"
     },
     {
       "clientType": "android_public",
-      "version": "1.0.26",
+      "version": "1.0.28",
       "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=",
       "releaseNotes": [
-        "1、新增设置中的关注链接",
-        "2、新增版本升级机制",
-        "3、新增关于内容的描述链接"
+        "1、优化线路的策略模式",
+        "2、支持升级自检和提示",
+        "3、其他一些功能和bug的优化"
       ],
       "upgradeType": "option"
     }
