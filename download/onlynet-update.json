@@ -2,7 +2,7 @@
   "updates": [
     {
       "clientType": "ios_app_store",
-      "version": "1.0.28",
+      "version": "1.0.30",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
         "1.Bug fixes and performance improvements.",
