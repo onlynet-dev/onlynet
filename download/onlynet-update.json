@@ -36,7 +36,7 @@
     {
       "clientType": "windows_public",
       "version": "1.0.28",
-      "downloadUrl": https://onlyvpn.net/download/client/windows_only.exe",
+      "downloadUrl": "https://onlyvpn.net/download/client/windows_only.exe",
       "releaseNotes": [
         "1、优化线路的策略模式",
         "2、支持升级自检和提示",
