@@ -36,7 +36,7 @@
     {
       "clientType": "windows_public",
       "version": "1.0.28",
-      "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=",
+      "downloadUrl": https://onlyvpn.net/download/client/windows_only.apk",
       "releaseNotes": [
         "1、优化线路的策略模式",
         "2、支持升级自检和提示",
@@ -46,8 +46,8 @@
     },
     {
       "clientType": "android_public",
-      "version": "1.0.28",
-      "downloadUrl": "https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=",
+      "version": "1.0.30",
+      "downloadUrl": "https://onlyvpn.net/download/client/onlynet.apk",
       "releaseNotes": [
         "1、优化线路的策略模式",
         "2、支持升级自检和提示",
