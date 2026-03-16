@@ -8,6 +8,7 @@ OnlyNet is a easy-to-use rule based proxy utility that supports multiple proxy p
 <div style="display: flex; align-items: center;"> 
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-en-1.png?raw=true" alt="image" style="width:260px;" /> 
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-en-2.png?raw=true" alt="image" style="width:260px;" /> 
+	
   <img src="https://github.com/onlynet-dev/onlynet/blob/main/docs/icon/app-en-3.jpg?raw=true" alt="image" style="width:260px;height:565px;" /> 
 </div>
 
@@ -18,7 +19,7 @@ OnlyNet mainly includes the following capabilities:
 
 -Route traffic to server by rule of domain, IP.
 
--Support HTTP.HTTPS.SOCKS … Protocol
+-Support Shadowsocks, Vmess, Trojan, HTTP, HTTPS, SOCKS, Vless, Anytls, Hysteria2, Wireguard...
 
 -Support IPV6.
 
@@ -38,8 +39,8 @@ OnlyNet mainly includes the following capabilities:
 	<tr> 
     <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
 	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://onlyvpn.net/download/client/onlynet_win.exe" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://onlyvpn.net/download/client/onlynet.apk" target="_blank">Latest Release</a> </td> 
   </tr> 
 </table>
 
