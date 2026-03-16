@@ -14,7 +14,7 @@ OnlyNet 是一个易于使用的基于规则的代理工具，支持多种代理
 
 --根据域名、IP 规则将流量路由到服务器
 
---支持 HTTP、HTTPS、SOCKS 等协议
+--支持  Shadowsocks, Vmess, Trojan, HTTP, HTTPS, SOCKS, Vless, Anytls, Hysteria2, Wireguard 等协议
 
 --支持 IPV6
 
