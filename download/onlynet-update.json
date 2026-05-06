@@ -35,12 +35,12 @@
     },     
     {
       "clientType": "windows_public",
-      "version": "1.0.28",
-      "downloadUrl": "https://onlyvpn.net/download/client/windows_only.exe",
+      "version": "1.1.4",
+      "downloadUrl": "https://onlyvpn.net/download/client/onlynet_win.exe",
       "releaseNotes": [
-        "1、优化线路的策略模式",
-        "2、支持升级自检和提示",
-        "3、其他一些功能和bug的优化"
+        "1、<b>自定义私有协议</b>:支持支持用户根据需求自行部署私有转发节点,提供更灵活的协议选择，助您构建专属的私密网络通道",
+        "2、<b>独家节点保护机制</b>:全新的抗扫描技术,通过隐藏服务器真实特征，有效防止恶意扫描与探测，大幅提升节点的生存能力与稳定性",
+        "3、<b>全链路信息加密</b>:客户端现已对订阅地址及节点服务器信息进行高强度加密处理，严防配置信息泄露，全方位守护您的隐私安全"
       ],
       "upgradeType": "must"
     },
