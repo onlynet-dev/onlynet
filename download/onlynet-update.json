@@ -35,7 +35,7 @@
     },     
     {
       "clientType": "windows_public",
-      "version": "1.1.4",
+      "version": "1.1.3",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet_win.exe",
       "releaseNotes": [
         "1、自定义私有协议：支持支持用户根据需求自行部署私有转发节点,提供更灵活的协议选择，助您构建专属的私密网络通道",
