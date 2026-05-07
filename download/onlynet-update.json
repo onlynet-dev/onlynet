@@ -2,7 +2,7 @@
   "updates": [
     {
       "clientType": "ios_app_store",
-      "version": "1.0.28",
+      "version": "1.1.3",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
           "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
@@ -16,7 +16,7 @@
     },
     {
       "clientType": "mac_app_store",
-      "version": "1.0.28",
+      "version": "1.1.3",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
           "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
@@ -30,7 +30,7 @@
     },  
     {
       "clientType": "mac_ad_hoc",
-      "version": "1.0.28",
+      "version": "1.1.3",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
           "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
