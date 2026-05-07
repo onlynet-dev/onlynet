@@ -35,23 +35,29 @@
     },     
     {
       "clientType": "windows_public",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet_win.exe",
       "releaseNotes": [
-        "1、自定义私有协议：支持支持用户根据需求自行部署私有转发节点,提供更灵活的协议选择，助您构建专属的私密网络通道",
-        "2、独家节点保护机制：全新的抗扫描技术,通过隐藏服务器真实特征，有效防止恶意扫描与探测，大幅提升节点的生存能力与稳定性",
-        "3、全链路信息加密：客户端现已对订阅地址及节点服务器信息进行高强度加密处理，严防配置信息泄露，全方位守护您的隐私安全"
+          "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
+          "2.Exclusive Node Protection Mechanism: A proprietary security framework that shields servers from attacks and disruptions, significantly boosting node survivability and stability.",
+          "3.End-to-End Link Encryption: Implements high-intensity E2E encryption across the entire link at the client level, providing comprehensive protection for your privacy and security.",
+          "1、加固协议安全：弥补现有通用协议中的安全漏洞，保证你的数据更安全",
+          "2、独家节点保护机制：独有的安全机制，防止服务器被攻击破坏，大幅提升节点的生存能力与稳定性",
+          "3、全链路信息加密：客户端实现E2E全链路高强度加密处理，全方位守护您的隐私安全"
       ],
       "upgradeType": "option"
     },
     {
       "clientType": "android_public",
-      "version": "1.0.30",
+      "version": "1.1.3",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet.apk",
       "releaseNotes": [
-        "1、优化线路的策略模式",
-        "2、支持升级自检和提示",
-        "3、其他一些功能和bug的优化"
+          "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
+          "2.Exclusive Node Protection Mechanism: A proprietary security framework that shields servers from attacks and disruptions, significantly boosting node survivability and stability.",
+          "3.End-to-End Link Encryption: Implements high-intensity E2E encryption across the entire link at the client level, providing comprehensive protection for your privacy and security.",
+          "1、加固协议安全：弥补现有通用协议中的安全漏洞，保证你的数据更安全",
+          "2、独家节点保护机制：独有的安全机制，防止服务器被攻击破坏，大幅提升节点的生存能力与稳定性",
+          "3、全链路信息加密：客户端实现E2E全链路高强度加密处理，全方位守护您的隐私安全"
       ],
       "upgradeType": "option"
     }
