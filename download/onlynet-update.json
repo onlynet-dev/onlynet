@@ -44,7 +44,7 @@
     },     
     {
       "clientType": "windows_public",
-      "version": "1.1.4",
+      "version": "1.1.3",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet_win.exe",
       "releaseNotes": [
           "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
