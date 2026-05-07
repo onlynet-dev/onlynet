@@ -5,9 +5,12 @@
       "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Optimized route policy mode.",
-        "2.Supports upgrade self-check and prompts.",
-        "3.Other feature and bug fixed."
+          "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
+          "2.Exclusive Node Protection Mechanism: A proprietary security framework that shields servers from attacks and disruptions, significantly boosting node survivability and stability.",
+          "3.End-to-End Link Encryption: Implements high-intensity E2E encryption across the entire link at the client level, providing comprehensive protection for your privacy and security.",
+          "1、加固协议安全：弥补现有通用协议中的安全漏洞，保证你的数据更安全",
+          "2、独家节点保护机制：独有的安全机制，防止服务器被攻击破坏，大幅提升节点的生存能力与稳定性",
+          "3、全链路信息加密：客户端实现E2E全链路高强度加密处理，全方位守护您的隐私安全"
       ],
       "upgradeType": "option"
     },
@@ -16,9 +19,12 @@
       "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Optimized route policy mode.",
-        "2.Supports upgrade self-check and prompts.",
-        "3.Other feature and bug fixed."
+          "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
+          "2.Exclusive Node Protection Mechanism: A proprietary security framework that shields servers from attacks and disruptions, significantly boosting node survivability and stability.",
+          "3.End-to-End Link Encryption: Implements high-intensity E2E encryption across the entire link at the client level, providing comprehensive protection for your privacy and security.",
+          "1、加固协议安全：弥补现有通用协议中的安全漏洞，保证你的数据更安全",
+          "2、独家节点保护机制：独有的安全机制，防止服务器被攻击破坏，大幅提升节点的生存能力与稳定性",
+          "3、全链路信息加密：客户端实现E2E全链路高强度加密处理，全方位守护您的隐私安全"
       ],
       "upgradeType": "option"
     },  
@@ -27,9 +33,12 @@
       "version": "1.0.28",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": [
-        "1.Optimized route policy mode.",
-        "2.Supports upgrade self-check and prompts.",
-        "3.Other feature and bug fixed."
+          "1.Enhanced Protocol Security: Bridges security vulnerabilities found in existing universal protocols, ensuring your data remains exceptionally secure.",
+          "2.Exclusive Node Protection Mechanism: A proprietary security framework that shields servers from attacks and disruptions, significantly boosting node survivability and stability.",
+          "3.End-to-End Link Encryption: Implements high-intensity E2E encryption across the entire link at the client level, providing comprehensive protection for your privacy and security.",
+          "1、加固协议安全：弥补现有通用协议中的安全漏洞，保证你的数据更安全",
+          "2、独家节点保护机制：独有的安全机制，防止服务器被攻击破坏，大幅提升节点的生存能力与稳定性",
+          "3、全链路信息加密：客户端实现E2E全链路高强度加密处理，全方位守护您的隐私安全"
       ],
       "upgradeType": "must"
     },     
