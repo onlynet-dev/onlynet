@@ -2,7 +2,7 @@
   "updates": [
     {
       "clientType": "ios_app_store",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "upgradeType": "option",
       "releaseNotes": {
@@ -23,7 +23,7 @@
     },
     {
       "clientType": "mac_app_store",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "upgradeType": "option",
       "releaseNotes": {
@@ -44,7 +44,7 @@
     },
     {
       "clientType": "mac_ad_hoc",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "upgradeType": "must",
       "releaseNotes": {
@@ -65,7 +65,7 @@
     },
     {
       "clientType": "windows_public",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet_win.exe",
       "upgradeType": "option",
       "releaseNotes": {
@@ -86,7 +86,7 @@
     },
     {
       "clientType": "android_public",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "downloadUrl": "https://onlyvpn.net/download/client/onlynet.apk",
       "upgradeType": "option",
       "releaseNotes": {
