@@ -19,7 +19,7 @@
         "pt": ["1. Segurança de protocolo reforçada: Corrige vulnerabilidades para garantir datos mais seguros.", "2. Proteção exclusiva de nós: Mecanismos únicos contra ataques, aumentando a estabilidade do servidor.", "3. Criptografia de ponta a ponta: Criptografia E2E de alta resistência para proteger sua privacidade."],
         "bn": ["1. প্রোটোকল নিরাপত্তা জোরদার: ডেটা সুরক্ষার জন্য বিদ্যমান দুর্বলতাগুলি দূর করা।", "2. এক্সক্লুসিভ নোড সুরক্ষা: আক্রমণ প্রতিরোধ এবং সার্ভারের স্থিতিশীলতা বাড়ানোর বিশেষ ব্যবস্থা।", "3. এন্ড-টু-এন্ড এনক্রিপশন: আপনার গোপনীয়তা রক্ষার জন্য উচ্চ-শক্তির E2E এনক্রিপশন।"]
       },
-      "upgradeType": "option"
+      "upgradeType": "must"
     },
     {
       "clientType": "mac_app_store",
