@@ -18,7 +18,7 @@ OnlyNet mainly includes the following capabilities:
 
 -Route traffic to server by rule of domain, IP.
 
--Support HTTP.HTTPS.SOCKS … Protocol
+-Support Vless.Trojan.SS.HTTP.HTTPS.SOCKS … Protocol
 
 -Support IPV6.
 
