@@ -38,8 +38,8 @@ OnlyNet mainly includes the following capabilities:
 	<tr> 
     <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
 	  <td align="center"> <a href="https://apps.apple.com/au/app/onlynet/id6502987522" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.exe?download=" target="_blank">Latest Release</a> </td> 
-	  <td align="center"> <a href="https://github.com/onlynet-dev/onlynet/raw/refs/heads/main/download/OnlyNet.apk?download=" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://onlyvpn.net/download/client/onlynet_win.exe" target="_blank">Latest Release</a> </td> 
+	  <td align="center"> <a href="https://onlyvpn.net/download/client/onlynet.apk" target="_blank">Latest Release</a> </td> 
   </tr> 
 </table>
 
