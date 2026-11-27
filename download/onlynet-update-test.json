@@ -2,22 +2,22 @@
   "updates": [
     {
       "clientType": "ios_app_store",
-      "version": "1.1.3",
+      "version": "1.2.2",
       "downloadUrl": "https://apps.apple.com/au/app/onlynet/id6502987522",
       "releaseNotes": {
-        "zh_cn": ["1. 支持UDP协议", "2. 加固订阅地址", "3. 独家节点保护机制", "4. 全链路信息加密"],
-        "zh_hant": ["1. 支持UDP協議", "2. 加固訂閱地址", "3. 獨家節點保護機制", "4. 全鏈路信息加密"],
-        "en": ["1. UDP Protocol Support", "2. Enhanced Subscription Link", "3. Exclusive Node Protection", "4. Full-Link Encryption"],
-        "ja": ["1. UDPプロトコルのサポート", "2. 購読アドレスの強化", "3. 独自ノード保護メカニズム", "4. 全経路情報の暗号化"],
-        "ko": ["1. UDP 프로토콜 지원", "2. 구독 주소 보안 강화", "3. 독점 노드 보호 메커니즘", "4. 전 구간 링크 암호화"],
-        "ru": ["1. Поддержка протокола UDP", "2. Усиление адреса подписки", "3. Эксклюзивная защита узлов", "4. Полносвязное шифрование информации"],
-        "fr": ["1. Support du protocole UDP", "2. Sécurisation du lien d'abonnement", "3. Protection exclusive des nœuds", "4. Chiffrement de bout en bout"],
-        "de": ["1. UDP-Protokoll-Unterstützung", "2. Erweiterter Abonnementschutz", "3. Exklusiver Knotenschutz", "4. Volllink-Verschlüsselung"],
-        "ar": ["1. دعم بروتوكول UDP", "2. تعزيز أمان رابط الاشتراك", "3. آلية حصرية لحماية العقد", "4. تشفير كامل للمسار"],
-        "es": ["1. Soporte de protocolo UDP", "2. Seguridad mejorada del enlace de suscripción", "3. Protección exclusiva de nodos", "4. Cifrado de extremo a extremo"],
-        "hi": ["1. UDP प्रोटोकॉल समर्थन", "2. उन्नत सदस्यता लिंक", "3. विशेष नो德 सुरक्षा", "4. पूर्ण-लिंक एन्क्रिप्शन"],
-        "pt": ["1. Suporte ao protocolo UDP", "2. Segurança aprimorada do link de assinatura", "3. Proteção exclusiva de nós", "4. Criptografia de ponta a ponta"],
-        "bn": ["1. UDP প্রোটোকল সমর্থন", "2. উন্নত সাবস্ক্রিপশন লিঙ্ক", "3. এক্সক্লুসিভ নোড সুরক্ষা", "4. ফুল-লিঙ্ক এনক্রিপশন"]
+        "zh_cn": ["1.优化UDP协议", "2.加固订阅地址", "3.独家节点保护机制", "4.全链路信息加密"],
+        "zh_hant": ["1.優化UDP協議", "2.加固訂閱地址", "3.獨家節點保護機制", "4.全鏈路信息加密"],
+        "en": ["1.Optimized UDP Protocol", "2.Enhanced Subscription Link", "3.Exclusive Node Protection", "4.Full-Link Encryption"],
+        "ja": ["1.UDPプロトコルの最適化", "2.購読アドレスの強化", "3.独自ノード保護メカニズム", "4.全経路情報の暗号化"],
+        "ko": ["1.UDP 프로토콜 최적화", "2.구독 주소 보안 강화", "3.독점 노드 보호 메커니즘", "4.전 구간 링크 암호화"],
+        "ru": ["1.Оптимизация протокола UDP", "2.Усиление адреса подписки", "3.Эксклюзивная защита узлов", "4.Полносвязное шифрование информации"],
+        "fr": ["1.Optimisation du protocole UDP", "2.Sécurisation du lien d'abonnement", "3.Protection exclusive des nœuds", "4.Chiffrement de bout en bout"],
+        "de": ["1.UDP-Protokoll-Optimierung", "2.Erweiterter Abonnementschutz", "3.Exklusiver Knotenschutz", "4.Volllink-Verschlüsselung"],
+        "ar": ["1.تحسين بروتوكول UDP", "2.تعزيز أمان رابط الاشتراك", "3.آلية حصرية لحماية العقد", "4.تشفير كامل للمسار"],
+        "es": ["1.Optimización del protocolo UDP", "2.Seguridad mejorada del enlace de suscripción", "3.Protección exclusiva de nodos", "4.Cifrado de extremo a extremo"],
+        "hi": ["1.UDP प्रोटोकॉल अनुकूलन", "2.उन्नत सदस्यता लिंक", "3.विशेष नोड सुरक्षा", "4.पूर्ण-लिंक एन्क्रिप्शन"],
+        "pt": ["1.Otimização do protocolo UDP", "2.Segurança aprimorada do link de assinatura", "3.Proteção exclusiva de nós", "4.Criptografia de ponta a ponta"],
+        "bn": ["1.UDP প্রোটোকল অপ্টিমাইজেশন", "2.উন্নত সাবস্ক্রিপশন লিঙ্ক", "3.এক্সক্লুসিভ নোড সুরক্ষা", "4.ফুল-লিঙ্ক এনক্রিপশন"]
       },
       "upgradeType": "option"
     },
